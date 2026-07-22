@@ -190,4 +190,3 @@ Ao trocar a marca no futuro, mantenha proporções, gere os mesmos nomes derivad
 ## Observação sobre segurança
 
 A anon key do Supabase pode aparecer no navegador: ela foi criada para esse uso. A proteção depende das políticas RLS e do bucket privado. Nunca adicione service role key, senha, token administrativo ou chave de formulário aos arquivos HTML/JavaScript públicos.
-# NYX_DESIGNS
